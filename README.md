@@ -36,7 +36,7 @@ python test.py --dataset Coverage --vit_name R50-ViT-B_16
 ```
 
 ### 5. CKPT
-* [Google Dirve](https://drive.google.com/drive/folders/1S1BJyFWw4Tlb_ItdtzL9J1TV_as9tIbt?usp=drive_link)
+* [Google Dirve](https://drive.google.com/drive/folders/1FvU6Q7U_XLMO8At4f141HZt6jWeg1f27?usp=drive_link)
 * [Baudu Disk](https://pan.baidu.com/s/1q9-TXOtGL6ZtHAl1zWKJwQ?pwd=gdit)
 
 ## Citations
