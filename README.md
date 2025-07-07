@@ -15,7 +15,6 @@ mv {MODEL_NAME}.npz ../model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
 
 Please download the IML-MUST dataset.<br>
 * [Baidu Disk](https://pan.baidu.com/s/180TzwbTHj1Q3FOvIwT3vyg?pwd=gdit) <br>
-* [Google Drive](https://drive.google.com/drive/folders/1bCCRaP7MKkEhxbTBbcKvy0AHBFi6ZMQQ?usp=drive_link)
 
 ### 3. Environment
 
